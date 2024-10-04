@@ -1,5 +1,5 @@
 // No 1
-const angka: number = 10;
+// const angka: number = 10;
 
 // if (angka % 2 === 0) {
 //   console.log("genap");
@@ -7,7 +7,7 @@ const angka: number = 10;
 //   console.log("ganjil");
 // }
 
-console.log(angka % 2 === 0 ? "genap" : "ganjil");
+// console.log(angka % 2 === 0 ? "genap" : "ganjil");
 
 // No 2
 // const num: number = 6;
@@ -52,34 +52,34 @@ console.log(angka % 2 === 0 ? "genap" : "ganjil");
 
 // No 4
 
-const num: number = 4;
-let result: number = 1;
-let message: string = "";
+// const num: number = 4;
+// let result: number = 1;
+// let message: string = "";
 
-for (let i = num; i >= 1; i--) {
-  result *= i;
+// for (let i = num; i >= 1; i--) {
+//   result *= i;
 
-  if (i === 1) {
-    message += i + " ";
-  } else {
-    message += i + " x ";
-  }
-}
+//   if (i === 1) {
+//     message += i + " ";
+//   } else {
+//     message += i + " x ";
+//   }
+// }
 
-console.log(result);
-console.log(`${message} = ${result}`);
+// console.log(result);
+// console.log(`${message} = ${result}`);
 
 // No 5
-const n: number = 1;
+// const n: number = 1;
 
-let a: number = 0;
-let b: number = 1;
+// let a: number = 0;
+// let b: number = 1;
 
-for (let i = 0; i < n; i++) {
-  let next: number = a + b;
-  a = b;
-  b = next;
-}
+// for (let i = 0; i < n; i++) {
+//   let next: number = a + b;
+//   a = b;
+//   b = next;
+// }
 
-console.log(a);
-console.log(a);
+// console.log(a);
+// console.log(a);
