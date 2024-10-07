@@ -118,3 +118,4 @@ for (let i = 0; i < inputString.length; i++) {
 }
 
 console.log(modifiedString);
+console.log(modifiedString);

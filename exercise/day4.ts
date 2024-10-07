@@ -121,9 +121,4 @@ const splitString = (input: string) => {
 
 splitString("Hello World");
 
-// tempStr = 'Hello'
-// tempStr = ''
-
-// ("Hello World");
-
-// ["Hello"]
+console.log("test");
